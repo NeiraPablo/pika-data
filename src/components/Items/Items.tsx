@@ -1,6 +1,5 @@
 // Items.tsx
 import React, { useState, useEffect } from 'react';
-import { Accordion } from 'react-bootstrap';
 import axios from 'axios';
 import ItemCard from './ItemCard/ItemCard';
 import './Items.css';
